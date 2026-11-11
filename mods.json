@@ -1,0 +1,25 @@
+{
+  "repo": "LeoBeoMods/leobeo-mods",
+  "mods": [
+    {
+      "slug": "keep-sliding",
+      "name": "Keep Sliding",
+      "version": "0.1.0",
+      "tag": "keep-sliding-0.1.0",
+      "summary": "Getting off a sliding horse, donkey, camel, boat or minecart no longer stops you dead. You keep your speed.",
+      "requires": "Fabric API (Fabric builds only)",
+      "targets": [
+        {"loader": "Fabric", "mc": "26.3", "file": "keepsliding-0.1.0+fabric-26.3.jar"},
+        {"loader": "Fabric", "mc": "26.2", "file": "keepsliding-0.1.0+fabric-26.2.jar"},
+        {"loader": "Fabric", "mc": "26.1.2", "file": "keepsliding-0.1.0+fabric-26.1.2.jar"},
+        {"loader": "Fabric", "mc": "1.21.11", "file": "keepsliding-0.1.0+fabric-1.21.11.jar"},
+        {"loader": "Fabric", "mc": "1.21.1", "file": "keepsliding-0.1.0+fabric-1.21.1.jar"},
+        {"loader": "NeoForge", "mc": "26.3", "file": "keepsliding-0.1.0+neoforge-26.3.jar"},
+        {"loader": "NeoForge", "mc": "26.2", "file": "keepsliding-0.1.0+neoforge-26.2.jar"},
+        {"loader": "NeoForge", "mc": "26.1.2", "file": "keepsliding-0.1.0+neoforge-26.1.2.jar"},
+        {"loader": "NeoForge", "mc": "1.21.11", "file": "keepsliding-0.1.0+neoforge-1.21.11.jar"},
+        {"loader": "NeoForge", "mc": "1.21.1", "file": "keepsliding-0.1.0+neoforge-1.21.1.jar"}
+      ]
+    }
+  ]
+}
